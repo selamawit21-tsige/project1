@@ -1,6 +1,8 @@
+
 body {
   font-family: "Poppins", sans-serif;
-  background: #272044;
+
+  background: linear-gradient(180.3deg, rgb(221, 221, 221) 5.5%, rgb(110, 136, 161) 90.2%);
 }
 
 .container {
@@ -86,7 +88,7 @@ section.secondary {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/lisbon\ \(1\).png");
+    url("../images/giworgis.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -182,10 +184,10 @@ main p {
 footer {
   color: white;
   background-image: linear-gradient(
-      rgba(39, 32, 68, 0.9),
+      rgba(39, 32, 68, 0.7),
       rgba(39, 32, 68, 0.9)
     ),
-    url("../images/lisbon-footer.png");
+    url("../images/footer.jpg");
 
   background-repeat: no-repeat;
   background-size: cover;
